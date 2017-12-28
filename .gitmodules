@@ -1,3 +1,6 @@
 [submodule "algorithm"]
 	path = algorithm
 	url = https://github.com/SangChan/algorithm.git
+[submodule "Koding-Kungfu"]
+	path = Koding-Kungfu
+	url = https://github.com/ch7895/Koding-Kungfu.git
