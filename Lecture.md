@@ -47,3 +47,9 @@
 * git submodule
 * Leetcode 문제 풀이
 	* Inverse the binary tree
+
+# 수업 #9
+* 2017/1/3
+* Security update about Meltdown and Spectre bug
+* Leetcode 문제 풀이
+	* 637. Average of Levels in Binary Tree
