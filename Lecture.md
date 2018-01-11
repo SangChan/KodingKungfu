@@ -49,7 +49,12 @@
 	* Inverse the binary tree
 
 # 수업 #9
-* 2017/1/3
+* 2018/1/3
 * Security update about Meltdown and Spectre bug
 * Leetcode 문제 풀이
 	* 637. Average of Levels in Binary Tree
+
+# 수업 #10
+* 2018/1/10
+* Leetcode 문제 풀이
+ 	* 136. Single Number 
