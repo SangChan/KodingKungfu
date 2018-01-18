@@ -4,3 +4,6 @@
 [submodule "Koding-Kungfu"]
 	path = Koding-Kungfu
 	url = https://github.com/ch7895/Koding-Kungfu.git
+[submodule "codingkungfu"]
+	path = codingkungfu
+	url = https://github.com/sjh8543/codingkungfu.git
