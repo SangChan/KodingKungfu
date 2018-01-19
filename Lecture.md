@@ -58,3 +58,8 @@
 * 2018/1/10
 * Leetcode 문제 풀이
  	* 136. Single Number 
+
+# 수업 #11
+* 2018/1/17
+* Leetcode 문제풀이
+	* 215. Kth Largest Element in an Array 
