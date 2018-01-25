@@ -12,7 +12,7 @@
 # 수업 #2
 * 2017/11/07
 * Leetcode 문제 풀이
-    * 1. Two Sums : how to go to O(n)?
+    * 1.Two Sums : how to go to O(n)?
 
 # 수업 #3
 * 2017/11/16
@@ -28,7 +28,7 @@
 * 2017/11/28
 * 아시아 쪽 연봉 관련 썰
 * Leetcode 문제 풀이 
-    * 657. Judge Route Circle?
+    * 657.Judge Route Circle?
     * What is circle means?
     * How can do with inputs?
 
@@ -52,14 +52,20 @@
 * 2018/1/3
 * Security update about Meltdown and Spectre bug
 * Leetcode 문제 풀이
-	* 637. Average of Levels in Binary Tree
+	* 637.Average of Levels in Binary Tree
 
 # 수업 #10
 * 2018/1/10
 * Leetcode 문제 풀이
- 	* 136. Single Number 
+ 	* 136.Single Number 
 
 # 수업 #11
 * 2018/1/17
 * Leetcode 문제풀이
-	* 215. Kth Largest Element in an Array 
+	* 215.Kth Largest Element in an Array 
+
+# 수업 #12
+* 2018/1/24
+* Leetcode 문제 풀이
+	* 26.Remove Duplicates from Sorted Array 
+	* 27.Remove Element
