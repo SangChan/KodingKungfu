@@ -69,3 +69,8 @@
 * Leetcode 문제 풀이
 	* 26.Remove Duplicates from Sorted Array 
 	* 27.Remove Element
+
+# 수업 #13
+* 2018/1/31
+* Leetcode 문제 풀이
+	* 189.Rotate Array
