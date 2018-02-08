@@ -74,3 +74,8 @@
 * 2018/1/31
 * Leetcode 문제 풀이
 	* 189.Rotate Array
+
+# 수업 #14
+* 2018/2/7
+* Leetcode 문제 풀이
+	* 146.LRU Cache 
