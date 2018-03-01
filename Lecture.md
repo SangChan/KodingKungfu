@@ -85,3 +85,9 @@
 * Leetcode 문제 풀이
 	* 121.Best Time to Buy and Sell Stock
 	* 53.Maximum Subarray
+
+# 수업 #16
+* 2018/2/28
+* Leetcode 문제 풀이
+	* 217.Contains Duplicate 
+* ReactiveX, ReactJS, ReduxJS 설명
