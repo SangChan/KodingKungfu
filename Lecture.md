@@ -100,3 +100,9 @@
 # 수업 #18
 * 2018/3/22
 * Firebase, oEmbeded, OpenGraph 설명
+
+# 수업 #19
+* 2018/3/26
+* CoreML 설명
+* Leetcode 문제 풀이
+	* Solution for 352.Data Stream as Disjoint Intervals by Swift
