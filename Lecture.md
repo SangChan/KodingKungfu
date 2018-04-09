@@ -106,3 +106,7 @@
 * CoreML 설명
 * Leetcode 문제 풀이
 	* Solution for 352.Data Stream as Disjoint Intervals by Swift
+
+# 수업 #20 
+* 2018/4/5
+* TensorFlow 설명
