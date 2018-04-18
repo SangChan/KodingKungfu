@@ -110,3 +110,8 @@
 # 수업 #20 
 * 2018/4/5
 * TensorFlow 설명
+
+# 수업 #21
+* 2018/4/17
+* Leetcode 문제 풀이
+	* 278. First Bad Version
