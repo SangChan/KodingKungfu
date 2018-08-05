@@ -115,3 +115,7 @@
 * 2018/4/17
 * Leetcode 문제 풀이
 	* 278. First Bad Version
+
+# 수업 #22
+* 2018/8/2
+* Talk about working as remotely
