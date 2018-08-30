@@ -124,3 +124,12 @@
 * 2018/8/16
 * Leetcode 문제풀이
 	* 11.Container With Most Water 
+
+# 수업 #24
+* 2018/8/24
+* Leetcode 문제풀이
+	* 890.Find and Replace Pattern
+
+# 수업 #25
+* 2018/8/29
+* try to dig up using opensource license list from Google Photo app on iOS
