@@ -137,3 +137,12 @@
 # 수업 #26
 * 2018/9/6
 * about if(kakao)
+
+# 수업 #27
+* 2018/9/14
+* Leetcode 문제풀이
+	* 895.Maximum Frequency Stack
+
+# 수업 #28
+* 2018/9/18
+* 오프모임
