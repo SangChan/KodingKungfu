@@ -146,3 +146,7 @@
 # 수업 #28
 * 2018/9/18
 * 오프모임
+
+# 수업 #29
+* 2018/10/4
+* Solve some example from coding interview
