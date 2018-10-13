@@ -150,3 +150,7 @@
 # 수업 #29
 * 2018/10/4
 * Solve some example from coding interview
+
+# 수업 #30
+* 2018/10/10
+* Align with gRPC
