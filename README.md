@@ -3,9 +3,10 @@
 - Koding Kungfu is private koding dojo for some guys who want to know more and reach more.
 
 ## Who is Koding Kungfu?
-- Sangchan,Lee
+- Sangchan, Lee
 - Jaehoon, Shim
-- Changkyu,Kim
+- Changkyu, Kim
+- Maro, Jun
 - and You!
 
 ## Where is Koding Kungfu?
