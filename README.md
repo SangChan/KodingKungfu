@@ -10,8 +10,9 @@
 - and You!
 
 ## Where is Koding Kungfu?
-- Basically, Skype chatting room
-- We don't have space for kungfu, yet
+- Basically, Skype chat room
+- Secondly, We have Telegram chat room
+- We don't have any space for kungfu, yet
 
 ## Why Koding Kungfu is started?
 - For sharing, how to solve coding test exams on leetcode.com
